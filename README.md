@@ -42,15 +42,3 @@ Bootstrap com breakpoints e navbar colapsável, CSS Grid/Flexbox e media queries
 
 ## Como executar
 Abra `index.html` no navegador com conexão à internet (necessária para carregar Bootstrap pela CDN). O carrinho usa armazenamento local do navegador.
-
-## Publicar no GitHub Pages
-1. Crie um repositório chamado `nexa-tech`.
-2. Envie todos os arquivos e pastas mantendo a estrutura.
-3. Cada integrante realiza commits com sua própria conta.
-4. Acesse **Settings → Pages**.
-5. Em **Build and deployment**, escolha **Deploy from a branch**, branch `main` e pasta `/ (root)`.
-6. Salve e aguarde o endereço ser publicado.
-7. Substitua o link de exemplo acima pelo endereço real.
-
-## Observação acadêmica
-Produtos, preços, e-mails e atendimento são fictícios. O formulário apenas valida os dados no navegador; não envia mensagens. O carrinho é demonstrativo e não realiza pagamentos.
